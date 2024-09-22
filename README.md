@@ -24,6 +24,8 @@
 
 # 💻 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hrishikesh-ghosh-058004185/)
-[![Twitter](https://raw.githubusercontent.com/yourusername/repositoryname/branchname/assets/twitter-logo.png)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter&style=for-the-badge)](https://x.com/Hrishik16678853)
+
+
 
 
