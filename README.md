@@ -2,8 +2,8 @@
 
 👩🏻‍💻 Working on code to get good on it<br/>
 👩🏻‍🎓 Computer Science Background :) <br/>
-🎨 current going on a web deb journey<br/>
-🌷 #Yet to learn Docker and Kubernetes<br/>
+🎨 current going on a Devops journey<br/>
+🌷 learned Docker and Kubernetes<br/>
 💭 Current Working on System Design<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
