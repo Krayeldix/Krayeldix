@@ -1,7 +1,6 @@
 ### Hi, I'm Hrishikesh Ghosh
 ☁️ DevOps & Cloud Engineer | exploring Cybersecurity / SOC<br/>
 🎓 MCA Graduate — Computer Science Background<br/>
-🚀 Joining as a Linux Support Intern @ RackVolt Cloud Solutions<br/>
 🛠️ Hands-on with Docker, Kubernetes, Terraform, AWS, and CI/CD pipelines<br/>
 🔐 Building skills in SOC tooling — Wazuh, Splunk, Wireshark, MITRE ATT&CK<br/>
 🎯 Long-term goal: Security/Infra roles in cloud-native environments<br/>
