@@ -1,4 +1,4 @@
-### Hi, I'm Hrishikesh Ghosh
+### Hi, I'm KD
 ☁️ DevOps & Cloud Engineer | exploring Cybersecurity / SOC<br/>
 🛠️ Hands-on with Docker, Kubernetes, Terraform, AWS, and CI/CD pipelines<br/>
 🔐 Building skills in SOC tooling — Wazuh, Splunk, Wireshark, MITRE ATT&CK<br/>
